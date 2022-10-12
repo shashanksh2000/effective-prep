@@ -1,6 +1,6 @@
 /*
-Provided a binary tree, program revolves around traversing tree in a boundary fashion. Process only the left most nodes first, then the leaves and 
-at last the rightmost nodes.
+Provided a binary tree, program revolves around traversing tree and viewing the trees with only bottom nodes visible and 
+hiding the upper nodes coinciding with lower nodes.
 */
 #include <bits/stdc++.h>
 using namespace std;
